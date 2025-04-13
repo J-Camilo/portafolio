@@ -7,7 +7,7 @@ function App() {
 
       <div style={{ width: '100%', height: '600px', position: 'relative' }}>
         <Threads
-          amplitude={2}
+          amplitude={2} 
         />
       </div>
     </>
