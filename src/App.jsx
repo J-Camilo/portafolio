@@ -1,4 +1,4 @@
-import Home from "./layout/home/home"
+import Home from "./layout/Home/Home.jsx"
 
 function App() {
   return (
